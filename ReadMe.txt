@@ -1,6 +1,6 @@
 I get asked fairly often about resources to learn about Industrial Control Systems Security.
 
-A couple months back I started compiling some of the resources that I have used and then I asked some friends to help and borrowed from others. 
+A couple months back I started compiling some of the resources that I have used. Then I asked some friends for input and linked to some other really good lists.  
 
 Garrett Guinivan added resources, I parsed links and notes posted by Isiah Jones and included links to Robert M. Lee and Dragos, Inc. curated reading lists. There is some overlap and that typically means those are the gems. 
 
