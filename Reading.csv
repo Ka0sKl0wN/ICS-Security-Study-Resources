@@ -1,0 +1,42 @@
+Title ,Author(s),Type,Link,Notes
+Vulnerability Analysis of Network Scanning on SCADA Systems,"Kyle Coffey, Richard Smith, Leandros Maglaras, and Helge Janicke",Academic Article,https://www.hindawi.com/journals/scn/2018/3794603/,
+INL Report: Survey of Security Tools for the Industrial Control System Environment (May 2017),"Hurd, Carl M.; McCarty, Michael V.",Research Report,https://www.osti.gov/servlets/purl/1376870 ,
+Hacking Exposed - Industrial Control Systems,"Clint Bodungen, Bryan Singer, Aaron Shbeeb, Kyle Wilhoit, Stephen Hilt",Book,https://www.amazon.com/Hacking-Exposed-Industrial-Control-Systems/dp/1259589714,
+Industrial Network Security 2nd Edition,"Eric D. Knapp, Joel Thomas Langill",Book,https://www.amazon.com/Industrial-Network-Security-Second-Edition/dp/0124201148/,
+Industrial Cybersecurity: Efficiently secure critical infrastructure systems,Pascal Ackerman,Book,https://www.amazon.com/Industrial-Cybersecurity-Efficiently-critical-infrastructure-ebook/dp/B0761XRTP9,
+Cybersecurity Cyberwar,"P.W. Singer, Allan Friedman",Book,https://www.amazon.com/Cybersecurity-Cyberwar-Everyone-Needs-Know%C2%AE/dp/0199918112/,
+Critical Infrastructure Protection,United States Government Accountability Office,Research Report,https://www.gao.gov/assets/710/701079.pdf,Actions Needed to Address Significant Cybersecurity Risks Facing the Electric Grid
+Power4Vets,,Website,http://www.incsys.com/power4vets/,"The Power4Vets™ helps vets find the best job openings, and we also help facilitate them for those jobs by providing relevant online coursework, online simulator training, online certification prep work, personal coaching, and individualized job placement assistance"
+Control Global OT Security Engineering,,Website,https://www.controlglobal.com/assets/digital_edition/2019/November/OT-security-engineering-comm-V3.pdf,
+US CERT Training ,,Website,https://www.us-cert.gov/ics/Training-Available-Through-ICS-CERT#100w,
+NISC SP-800-82,,Website,http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82.pdf,
+SANS ICS Reading Room,,Website,https://www.sans.org/reading-room/whitepapers/ICS,
+ScadaHacker Resources,,Website,https://scadahacker.com/resources.html,
+ScadaHacker Tools,,Website,https://scadahacker.com/tools.html,
+CyberWire,,Website,https://thecyberwire.com/,Provides the most relevant Cyber updates each day
+Recorded Future,,Website,https://go.recordedfuture.com/cyber-daily,Provides threat intel and vulnerability updates to your inbox each day
+FireEye OT Threat Blog Posts,,Website,https://www.fireeye.com/blog/threat-research.html/category/etc/tags/fireeye-blog-tags/ics-security,
+Politico Cyber Newsletter,,Website,https://www.politico.com/newsletters/morning-cybersecurity,"Delivered daily by 10 a.m., Morning Cybersecurity examines the latest news in cybersecurity policy and politics"
+Control Global,,Website,https://info.controlglobal.com/enews-opt-in,"Techincal OT news, papers"
+SANS ICS/SCAD Reading Room,,Website,https://www.sans.org/reading-room/whitepapers/ICS/,over 30+ whitepapers for free or simple SANS login
+SANS History of ICS,,Website,https://ics.sans.org/media/An-Abbreviated-History-of-Automation-and-ICS-Cybersecurity.pdf,
+SANS ICS Cyber Kill Chain,,Website,https://www.sans.org/reading-room/whitepapers/ICS/industrial-control-system-cyber-kill-chain-36297,
+SANS ICS Blog,,Website,https://ics.sans.org/blog,SANS blog with a wide range of resources
+CyberScoop,,Website,https://www.cyberscoop.com/#subscribe,*Daily Newsletter that collects morning news/open source headlines everyday for SA
+Radio Free Europe,,Website,https://www.rferl.org/subscribe.html/,"News website with newsletters providing great SA of several countries, in language resources too (Radio Farda in Persian for example)"
+The Cipher Brief,,Website,https://www.thecipherbrief.com/subscribe,*Daily Newsletter sent to you inbox in regards to global security
+The Cipher Brief - Open Source,,Website,https://www.thecipherbrief.com/newsletter-open-source,*Daily Newsletter that collects morning news/open source headlines everyday for SA
+Security Week - ICS/SCADa News,,Website,https://www.securityweek.com/scada-ics,*Portion of the SecurityWeek webiste dedicated to ICS/SCADA
+Security Week - Newsletter,,Website,https://www.securityweek.com/subscribe,*Daily Newsletter that collects morning news/open source headlines everyday for SA
+Washington Post Cybersecurity 202,,Website,https://subscribe.washingtonpost.com/newsletters/#/newsletters,"Delivered daily by 10 a.m., Morning Cybersecurity examines the latest news in cybersecurity policy and politics"
+Krebs on Security,,Website,https://krebsonsecurity.com/,awesome blog by ICS director Krebs
+The Hacker News,,Website,https://thehackernews.com/2019/10/cyber-attack-tokyo-olympics.html,newsletter and the site also has a large free IT resource library
+MiTRE Blog,,Website,https://medium.com/mitre-attack,MITRE Blog
+Symantec,,Website,https://www.symantec.com/blogs/threat-intelligence,"Threat Intel Blog from Symantec, also can subscribe to their listserve on this page"
+Dale Peterson Weekly ICS Security News & Notes,,Weekly Email,https://mailchi.mp/f53b1c8c2da0/friday,"The best ~10 Links to Articles, Videos, and Podcasts"
+Dragos Curated Reading List,,Website,https://dragos.com/blog/industry-news/a-dragos-industrial-control-system-security-reading-list/,Curated reading list from Dragos
+Dragos Blog,,Website,https://dragos.com/blog/,More official BLOG for DRAGOS to stay up to date with one of the best companies in regards to ICS security
+Dragos White Papers,,Website,https://dragos.com/white-papers/,A plethera of Whitepapers from DRAGOS on the top ICS/SCADA topics
+Dragos Threat Intel Whitepaper,,Website,https://dragos.com/wp-content/uploads/Industrial-Control-Threat-Intelligence-Whitepaper.pdf,
+Robert M. Lee's Curated Reading List,,Website,http://www.robertmlee.org/tag/reading-list/,Curated reading list from Robert M. Lee
+Robert M Lee's personal blog,,Website,http://www.robertmlee.org/blog/,"Great blog to keep up on, from the founder of DRAGOS"

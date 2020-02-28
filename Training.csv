@@ -1,0 +1,18 @@
+Level,Course Name,Link,Provider,Cost,Available Online?,Location,Certificate Name,DoD 8570?,8570 Level,Certification Cost,Summary,Oct. 2019,Nov. 2019,Dec. 2019,Jan. 2020,Feb. 2020,Mar. 2020,Apr. 2020,May. 2020,Jun. 2020,Jul. 2020,Aug. 2020,Sep. 2020
+Beginner,101- Critical Infrastructure Protection 2 Hours,,DHS Online,Free,yes,,N/A,,,,,,,,,,,,,,,,
+Beginner,Introduction to Control Systems Cybersecurity (101) - 1 Day Course,,DHS CERT,Free,yes,,N/A,,,,,,,,,,,,,,,,
+Intermediate,Intermediate Cybersecurity for Industrial Control Systems (201) Part 1 - 1 Day Course,,DHS CERT,Free,yes,,N/A,,,,,,,,,,,,,,,,
+Intermediate,Intermediate Cybersecurity for Industrial Control Systems (202) Part 2 - 1 Day Course,,DHS CERT,Free,yes,,N/A,,,,,,,,,,,,,,,,
+Beginner,ICS Cybersecurity (301) - 5 days,,DHS CERT,Free,yes,INL,N/A,,,,,,,,,3-7 and 17-21,,,,,,,
+Beginner,SCADA/ICS Security Training Boot Camp,,InfoSec,,yes,,,,,,,,,DC: 12/12 - 12/16,Vegas: 1/27 - 1/31,,,,,,,,
+Beginner,ICS/SCADA Security Essentials (ICS410),https://www.sans.org/course/ics-scada-cyber-security-essentials,SANS,"$7,020.00 ",yes,,GISCP,Yes,"IAT II,III",$799,,,,,,,,,,,,,
+Intermediate,Essentials for NERC Critical Infrastructure Protection (ICS456),https://www.sans.org/course/essentials-for-nerc-critical-infrastructure-protection,SANS,"$5,730.00",No,,N/A,No,No,N/A,,,Atlanta: 18-22,,,,Orlando: 4-8,,,,,,
+Intermediate,ICS Active Defense and Incident Response (ICS515),https://www.sans.org/course/industrial-control-system-active-defense-and-incident-response,SANS," $7,020.00 ",Yes,,GRID,No,No,$799.00,,,Atlanta: 18-22,,,,,Baltimore: 27 APR - 1MAY,,,,,
+Advanced,ICS612: ICS Cyber Security In-Depth,https://www.sans.org/course/ics-cyber-security-in-depth,SANS,"$5,710.00",No,,N/A,,,,Beta Testing Course,,,DC: 12/12 - 12/16,,,,,,,,,
+Beginner,CYBATI,https://cybati.org/,Cybati,"2,995",No,All,,,,,Courses with Mini-Kits for Hand-on Training,,,,,,,,,,,,
+Intermediate,"Assessing, Hunting and Monitoring Industrial Control System Networks",https://dragos.com/training/,DRAGOS,"4,500",No,"Hanover, MD Houston, TX",N/A,No,No,N/A,,,,,,,,20-25APR,,15-20JUN,,,14-19SEPT
+Beginner,SANS ICS Blog Page,https://ics.sans.org/blog,SANS,Free,No,,,,,,,,,,,,,,,,,,
+Beginner,ICS CERT Online Courses (16hrs total of classes),https://ics-cert-training.inl.gov/learn,INL,Free,Yes,,,,,,,,,,,,,,,,,,
+Beginner,ICS Cybersecurity,https://www.udemy.com/course/ics-scada-cyber-security/,Udemy,,,,,,,,Inexpensive courses on Udemy are a great way to get foundational knowledge,,,,,,,,,,,,
+Beginner,From Wire to PLC A to Z Compilation,https://www.udemy.com/course/from-wire-to-plc-a-to-z-compilation/,Udemy,,,,,,,,,,,,,,,,,,,,
+Beginner,S4 ICS 101 OnRamp,https://s4xevents.com/ics-security-training/,S4,89,Yes,Online,N/A,,,,Our goal with the OnRamp Online is to get a lot of people up to speed on ICS security. It’s priced so you can put whole teams or departments through the OnRamp.,,,,,,,,,,,,
