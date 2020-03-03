@@ -1,6 +1,6 @@
-Title,Autho,Type,Link,Notes
+Title,Author,Type,Link,Notes
 Unfettered Blog,Joe Weiss,Blog,https://www.controlglobal.com/blogs/unfettered/
-Vulnerability Analysis of Network Scanning on SCADA Systems,"Kyle Coffey, Richard Smith, Leandros Maglaras, and Helge Janicke",Academic Article,https://www.hindawi.com/journals/scn/2018/3794603/,
+Vulnerability Analysis of Network Scanning on SCADA Systems,"Kyle Coffey/Richard Smith/Leandros Maglaras/and Helge Janicke",Academic Article,https://www.hindawi.com/journals/scn/2018/3794603/,
 INL Report: Survey of Security Tools for the Industrial Control System Environment (May 2017),"Hurd, Carl M.; McCarty, Michael V.",Research Report,https://www.osti.gov/servlets/purl/1376870 ,
 Hacking Exposed - Industrial Control Systems,"Clint Bodungen, Bryan Singer, Aaron Shbeeb, Kyle Wilhoit, Stephen Hilt",Book,https://www.amazon.com/Hacking-Exposed-Industrial-Control-Systems/dp/1259589714,
 Industrial Network Security 2nd Edition,"Eric D. Knapp, Joel Thomas Langill",Book,https://www.amazon.com/Industrial-Network-Security-Second-Edition/dp/0124201148/,
