@@ -7,3 +7,13 @@ Things we are working on:
 3.  Details about how to set up a home ICS lab (this can get expensive and we will try to show lowest cost options).
 
 4.  Always looking for more tools and resources from around the web. 
+
+
+
+
+************************
+https://www.theautomationstore.com/plc-trainers/
+https://www.theautomationstore.com/lessons/
+https://scadahacker.com/tools.html
+https://scadahacker.com/resources.html
+https://www.netresec.com/?page=PcapFiles
