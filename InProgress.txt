@@ -17,3 +17,9 @@ https://www.theautomationstore.com/lessons/
 https://scadahacker.com/tools.html
 https://scadahacker.com/resources.html
 https://www.netresec.com/?page=PcapFiles
+https://threatgen.com/instructor-led-training/
+https://www.udacity.com/course/cyber-physical-systems-security--ud279 
+
+Chad Hunter - https://docs.google.com/spreadsheets/d/12z7_8fUwSejPVd6bIosD405mhpLLM_DnTdcIiiKWpqw/edit#gid=2079030996 
+
+Idaho National Labs ICS 301 preparatory reading list.
