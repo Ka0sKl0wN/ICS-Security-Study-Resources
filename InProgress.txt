@@ -1,0 +1,9 @@
+Things we are working on:
+
+1.  Information/Resources and Links to leverage the top 3 to 6 Industrial IDS vendors online demos they provide.
+
+2.  Details about running PCAP Analysis offline to learn how SCADA/DCS/ICS/OT traffic looks in the wild.
+
+3.  Details about how to set up a home ICS lab (this can get expensive and we will try to show lowest cost options).
+
+4.  Always looking for more tools and resources from around the web. 
