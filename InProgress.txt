@@ -22,6 +22,11 @@ https://www.udacity.com/course/cyber-physical-systems-security--ud279
 
 Chad Hunter - https://docs.google.com/spreadsheets/d/12z7_8fUwSejPVd6bIosD405mhpLLM_DnTdcIiiKWpqw/edit#gid=2079030996 
 
+From Izz- 
+https://www.wbdg.org/resources/cybersecurity
+https://www.acq.osd.mil/eie/IE/FEP_CSC.html
+
+
 Idaho National Labs ICS 301 preparatory reading list.
 
 
