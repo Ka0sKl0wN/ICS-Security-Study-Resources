@@ -1,3 +1,7 @@
+Updated 9/23/2020 - Sorry, been too long since an update! New links from from Isiah Jones, Clint Bodungen and a new ICS Security Products Git repo from Rob Rothwell. Hope you Enjoy, please keep them coming!
+
+
+
 Many of us in ICS Security get asked fairly often about resources to learn about Industrial Control Systems Security.
 
 A couple months back I started compiling some of the resources that I have used. Then I asked some friends for input and linked to some other really good lists.

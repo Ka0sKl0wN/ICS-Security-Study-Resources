@@ -2,3 +2,4 @@ Name,Link,Notes
 awesome-industrial-control-system-security,https://github.com/hslatman/awesome-industrial-control-system-security,A curated list of resources related to Industrial Control System (ICS) security.
 "ICS Security Tools, Tips, and Trade",https://github.com/ITI/ICS-Security-Tools,"This effort intends to pull together tools, tips, and tricks of the trade to working on cyber security in the ICS environment."
 ICSREF: ICS Reverse Engineering Framework,https://github.com/momalab/ICSREF,ICSREF is a modular framework that automates the reverse engineering process of CODESYS binaries compiled with the CODESYS v2 compiler.
+ICS Security Products,https://github.com/S3cur1tyH4ggis/ICS-Security-Products,The purpose of this project is to list ICS security products as a community resource. Please contribute if you have something useful to add.

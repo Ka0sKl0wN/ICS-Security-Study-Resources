@@ -1,6 +1,5 @@
 Level,Course Name,Link,Provider,Cost,Available Online?,Location,Certificate Name,DoD 8570?,8570 Level,Certification Cost,Summary,Oct. 2019,Nov. 2019,Dec. 2019,Jan. 2020,Feb. 2020,Mar. 2020,Apr. 2020,May. 2020,Jun. 2020,Jul. 2020,Aug. 2020,Sep. 2020
-Beginner,101- Critical Infrastructure Protection 2 Hours,,DHS Online,Free,yes,,N/A,,,,,,,,,,,,,,,,
-Beginner,Introduction to Control Systems Cybersecurity (101) - 1 Day Course,,DHS CERT,Free,yes,,N/A,,,,,,,,,,,,,,,,
+Beginner,US CERT Trainin Courses,https://www.us-cert.gov/ics/Training-Available-Through-ICS-CERT,DHS CERT,Free,yes,,N/A,,,,,,,,,,,,,,,,
 Intermediate,Intermediate Cybersecurity for Industrial Control Systems (201) Part 1 - 1 Day Course,,DHS CERT,Free,yes,,N/A,,,,,,,,,,,,,,,,
 Intermediate,Intermediate Cybersecurity for Industrial Control Systems (202) Part 2 - 1 Day Course,,DHS CERT,Free,yes,,N/A,,,,,,,,,,,,,,,,
 Beginner,ICS Cybersecurity (301) - 5 days,,DHS CERT,Free,yes,INL,N/A,,,,,,,,,3-7 and 17-21,,,,,,,
@@ -18,3 +17,5 @@ Beginner,From Wire to PLC A to Z Compilation,https://www.udemy.com/course/from-w
 Beginner,S4 ICS 101 OnRamp,https://s4xevents.com/ics-security-training/,S4,Paid,Yes,Online,N/A,,,,Our goal with the OnRamp Online is to get a lot of people up to speed on ICS security. It’s priced so you can put whole teams or departments through the OnRamp.,,,,,,,,,,,,
 Beginner,Nuclear Security E-Learning,https://www.iaea.org/topics/security-of-nuclear-and-other-radioactive-material/nuclear-security-e-learning,IAEA,Free,Yes,Online,N/A,,,,The IAEA offers 17 free online learning modules in nuclear security.,,,,,,,,,,,,
 Intermediate,DFIR for PLCs,https://www.fireeye.com/services/training/courses/digital-forensics-incident-response-plcs.html,Mandiant/FireEye,Paid,No,,,,,,"Attacks against industrial control systems (ICS) are on the rise. To effectively respond to this emerging threat, organizations must be aware of the challenges that come along with performing digital forensics and incident response (DFIR) for ICS. This course is designed to give ICS security personnel the skills needed to identify and understand threats targeting ICS devices that use embedded operating systems such as VxWorks and Windows CE.",,,,,,,,,,,,
+Intermediate,ThreatGen Red vs. Blue Academy Course,https://threatgen.com/red-vs-blue-academy/red-vs-blue-courses/,ThreatGen,,,,,,,,,,,,,,,,,,,,
+Intermediate,ThreatGen Red vs. Blue Academy Game,https://threatgen.com/red-vs-blue-academy/redblue/,ThreatGen,,,,,,,,,,,,,,,,,,,,
